@@ -1,4 +1,4 @@
-# birthday-wish
+# Birthday Wish
 
 This package helps you to Send Email for Occasion.
 
